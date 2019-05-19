@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5371;Wasserkuppe;9.94;50.5;921;.05;19460901;19920731;Minimumthermometer;Temperaturmessung, konv.;eor;
+5371;Wasserkuppe;9.94;50.5;921;.05;19920801;19961024;Minimumthermometer;Temperaturmessung, konv.;eor;
+5371;Wasserkuppe;9.94;50.5;921;.05;20081127;20190312;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

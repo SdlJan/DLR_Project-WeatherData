@@ -1,0 +1,28 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3015;Lindenberg;14.12;52.21;98;1;19900210;19910206;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19910219;19910424;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19910507;19910511;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19910605;19910712;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19910807;19920928;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19920930;19930331;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19930401;19950516;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19950522;19950618;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19950522;19960907;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19950622;19960907;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19960912;19961229;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19960912;20011122;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19970108;19970317;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;19970324;20000103;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20000106;20011122;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20011130;20041119;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20011130;20011201;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20011205;20060628;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20041127;20041226;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20050104;20050125;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20050216;20050707;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20050712;20050801;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20050803;20080922;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20060803;20090105;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20090120;20150828;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;1;20150910;20190312;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

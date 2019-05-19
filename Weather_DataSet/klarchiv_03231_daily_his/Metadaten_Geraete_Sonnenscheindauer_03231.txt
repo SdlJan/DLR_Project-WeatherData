@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3231;Meiningen;10.38;50.56;450;1.5;19790101;19920401;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3231;Meiningen;10.38;50.56;450;8;19920401;20020816;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;8;20020820;20090128;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;8;20090128;20100728;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;6;20100729;20170418;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;8;20100729;20100729;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;6;20170426;20170602;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;6;20170621;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

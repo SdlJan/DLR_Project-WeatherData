@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;11.93;53.32;92.7;92.7;19020101;19271130;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;93.9;93.9;19271201;19360410;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;87.2;88.4;19360411;19461031;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;83;87.2;19461101;19480731;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;84.5;19480801;19560301;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;19730525;20060405;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;19920703;20050712;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;20050714;20060405;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;20060405;20080108;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;20080108;20150728;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;20150728;20171015;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;87.3;20171016;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

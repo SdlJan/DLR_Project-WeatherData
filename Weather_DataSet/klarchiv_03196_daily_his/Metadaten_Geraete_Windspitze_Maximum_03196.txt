@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;11.93;53.32;81;18;19810101;19860506;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3196;Marnitz;11.93;53.32;81;18;19860918;19920616;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3196;Marnitz;11.93;53.32;81;18;19920616;19921126;WMG 201;Windmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;18;19921128;19960219;WMG 201;Windmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;18;19960222;19980914;WMG 201;Windmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;18;19980916;20090630;WMG 201;Windmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;18;20090630;20130505;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;18;20130521;20190312;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

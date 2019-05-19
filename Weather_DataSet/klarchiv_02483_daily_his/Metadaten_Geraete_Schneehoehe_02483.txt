@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2483;Kahler Asten;;;;;19261101;19541206;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+2483;Kahler Asten;8.49;51.18;835;;19541207;19630630;Schneepegel;Schneehöhenmessung, manuell;eor;
+2483;Kahler Asten;8.49;51.18;839;;19630701;20060530;Schneepegel;Schneehöhenmessung, manuell;eor;
+2483;Kahler Asten;8.49;51.18;839;;20060531;20170531;Schneepegel;Schneehöhenmessung, manuell;eor;
+2483;Kahler Asten;8.49;51.18;839;2.3;20171109;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+954;UFS Deutsche Bucht;7.46;54.18;0;0;19980101;20130610;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+954;UFS Deutsche Bucht;7.46;54.18;0;0;20130708;20131105;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+954;UFS Deutsche Bucht;7.46;54.18;0;0;20131106;20190312;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

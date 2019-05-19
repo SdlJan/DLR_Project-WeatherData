@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5100;Trier-Petrisberg;;;;;19370101;19371130;Gerätetyp unbekannt;Windmessung, mechanisch;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;15.8;19371201;19681031;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;15.8;19681101;20010410;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;18.8;20010411;20080803;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+5100;Trier-Petrisberg;6.66;49.75;265;18.8;20080808;20190312;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1612;Gera-Leumnitz;12.08;50.88;200;;19520101;19641231;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;311.7;19650101;19821031;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;311.7;20060518;20161120;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;309.5;20161121;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5467;Wendelstein (Wendelsteinhaus);12.01;47.7;1734.6;1;19510101;19630321;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+5467;Wendelstein;12.01;47.7;1832;1;19630322;19630322;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

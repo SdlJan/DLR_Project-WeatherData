@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 15526;Hamburg (Deutsche Seewarte)             ;18671201;19351231

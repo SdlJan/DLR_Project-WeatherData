@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3015;Lindenberg;14.12;52.21;106;.05;19470101;19561022;Minimumthermometer;Temperaturmessung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19561023;19711017;Minimumthermometer;Temperaturmessung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19711018;19930331;Minimumthermometer;Temperaturmessung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19920930;19930331;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19930401;19950618;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19930401;20050302;Minimumthermometer;Temperaturmessung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19950622;19960907;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;19960912;20011029;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;20040621;20040703;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;20040706;20041113;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;.05;20041115;20190312;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

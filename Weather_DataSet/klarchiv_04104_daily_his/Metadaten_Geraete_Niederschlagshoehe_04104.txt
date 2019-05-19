@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4104;Regensburg;12.05;49.02;337.5;1;19470101;19600405;Hellmann;Niederschlagsmenge, konv.;eor;
+4104;Regensburg;12.06;49.02;340.4;1;19600406;19620625;Hellmann;Niederschlagsmenge, konv.;eor;
+4104;Regensburg;12.07;49.01;376;1;19620627;19780917;Hellmann;Niederschlagsmenge, konv.;eor;
+4104;Regensburg;12.1;49.04;366;1.1;19780918;20000531;Hellmann;Niederschlagsmenge, konv.;eor;
+4104;Regensburg;12.1;49.04;366;1;19940315;20001213;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+4104;Regensburg;12.1;49.04;366;1;20001214;20061219;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;1;20061220;20100308;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;1;20100309;20171113;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;1;20171114;20190312;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

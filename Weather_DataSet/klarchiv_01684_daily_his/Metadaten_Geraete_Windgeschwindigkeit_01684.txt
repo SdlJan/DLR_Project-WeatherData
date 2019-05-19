@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1684;Görlitz;14.96;51.16;232.2;13;19630101;19790531;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+1684;Görlitz;14.96;51.16;232.2;13;19790601;19900930;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+1684;Görlitz;14.96;51.16;232.2;16;19901001;19940525;WMG 201;Windmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;13;19940526;20070327;WMG 201;Windmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;13;20070328;20080731;WMG 201;Windmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;13;20080801;20080903;WMG 201;Windmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;12;20080903;20190312;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

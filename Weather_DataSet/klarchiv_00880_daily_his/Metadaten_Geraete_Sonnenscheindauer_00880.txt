@@ -1,0 +1,18 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+880;Cottbus;;;;;19370429;19531231;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+880;Cottbus;14.32;51.78;69;2.2;19540101;19661031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+880;Cottbus;14.32;51.78;69;9.55;19661101;20071214;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+880;Cottbus;14.32;51.78;69;9.9;19931125;19950606;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;19950608;20010421;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20010425;20030817;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20030825;20031201;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20031209;20040815;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20040818;20050321;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20050331;20071214;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20071214;20100124;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20100127;20100130;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20100202;20120124;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20120126;20140805;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20140807;20160624;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;9.9;20160629;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

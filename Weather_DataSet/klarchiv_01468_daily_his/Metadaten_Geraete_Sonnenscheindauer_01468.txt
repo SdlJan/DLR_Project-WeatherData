@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1468;Freudenstadt;8.41;48.45;797;30;19510101;19540731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1468;Freudenstadt;8.41;48.45;797;18.5;19540801;19861031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1468;Freudenstadt;8.41;48.45;797;15.1;19861001;20040815;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;797;9999;19861101;19940712;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1468;Freudenstadt;8.41;48.45;797;31.2;20040816;20060801;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;31.2;20060802;20070121;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;31.68;20070122;20080601;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;32.08;20080602;20100912;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;32.08;20100913;20150104;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;32.08;20150113;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

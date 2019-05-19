@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5516;Westermarkelsdorf/Fehmarn;;;;;19480101;19570723;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+5516;Westermarkelsdorf/Fehmarn;11.06;54.53;1.4;2.2;19570724;19960604;Stationsbarometer;Luftdruckmessung, konv.;eor;
+5516;Westermarkelsdorf;11.06;54.53;3;8.5;19960605;20060806;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+5516;Westermarkelsdorf;11.06;54.53;3;8.5;20060807;20070515;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+5516;Westermarkelsdorf;11.06;54.53;3;8.5;20070516;20070630;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+5516;Fehmarn;11.06;54.53;3;8.5;20070701;20130806;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+5516;Fehmarn;11.06;54.53;3;8.5;20130807;20190312;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.2;19510101;19510531;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.2;19510601;19970831;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.2;19920521;19980824;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;19980824;20030529;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.2;19980911;19990430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;20030605;20061222;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;20070115;20080524;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;20080528;20100108;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;20100121;20110911;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.6;20110924;20111024;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.4;20111028;20130524;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.4;20130529;20140406;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;17.4;20140411;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

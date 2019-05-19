@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1270;Erfurt-Bindersleben;11;50.97;254;256.6;19510101;19520229;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1270;Erfurt-Bindersleben;11;50.97;254;262.2;19520301;19570630;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;314;316.2;19570701;19640831;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;314;323.2;19640901;19950214;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;322;19950215;20070718;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;322;19950215;20110121;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;322;20070718;20110320;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+1270;Erfurt-Weimar;10.96;50.98;316;322;20110321;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

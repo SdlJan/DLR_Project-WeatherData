@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20050719;20060714;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20060715;20161210;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20161222;20180531;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20180607;20180801;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20180809;20180918;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;10;20180924;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

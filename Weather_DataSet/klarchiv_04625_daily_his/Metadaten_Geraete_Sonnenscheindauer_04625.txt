@@ -1,0 +1,26 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;;;;;19240601;19540430;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+4625;Schwerin;11.39;53.64;59;14;19540501;19920327;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19920327;19930625;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19930701;19951021;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19951023;19960617;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19960625;19970322;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19970324;19970608;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19970617;19980119;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19980211;19990226;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;19990301;20040228;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20040315;20040322;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20040330;20040422;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20040428;20040728;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20040804;20041224;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20041228;20080129;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20080207;20081023;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20081027;20110803;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20110803;20121113;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20121116;20130212;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20130213;20130313;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20130320;20180920;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20181122;20190108;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20190122;20190209;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;14.1;20190220;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

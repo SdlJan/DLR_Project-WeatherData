@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2261;Hof;11.88;50.31;565.1;567.7;19470101;19880229;Stationsbarometer;Luftdruckmessung, konv.;eor;
+2261;Hof;11.88;50.31;565.1;567.7;19971208;20080928;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;567.2;20080929;20100811;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;566.8;20100812;20140821;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;566.8;20140822;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,20 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3015;Lindenberg;14.12;52.21;98;22;19670102;19670927;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;22;19670930;19711005;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;25;19711005;19711017;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;25;19711018;19750622;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;9;19750622;19890708;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;9;19890804;19920928;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3015;Lindenberg;14.12;52.21;98;9;19920930;19921221;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19921223;19930331;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19930401;19950618;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19950622;19960907;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19960912;19970630;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19970707;19971022;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9;19971028;19990317;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;10.4;19990317;19990809;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;10.4;19990812;20050707;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;10.4;20050712;20080922;WMG 201;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;10.4;20080922;20161221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;10.4;20161228;20190312;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

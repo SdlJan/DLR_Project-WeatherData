@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1358;Fichtelberg;;;;;18910508;19450930;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+1358;Fichtelberg;12.95;50.43;1213;1216;19451001;19530630;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1358;Fichtelberg;12.95;50.43;1213;1214.6;19530701;19641223;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1358;Fichtelberg;12.95;50.43;1213;1214.6;19920616;20080731;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1358;Fichtelberg;12.95;50.43;1213;1214.6;20080801;20170324;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1358;Fichtelberg;12.95;50.43;1213;1214.6;20170324;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

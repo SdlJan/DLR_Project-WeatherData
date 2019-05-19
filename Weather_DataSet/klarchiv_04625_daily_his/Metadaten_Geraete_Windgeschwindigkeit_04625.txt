@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;11.39;53.64;59;22;19540101;19800911;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+4625;Schwerin;11.39;53.64;59;22;19800911;19880304;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+4625;Schwerin;11.39;53.64;59;22;19880304;20080930;WMG 201;Windmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;22;20080930;20130212;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;22;20130213;20160213;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;22;20160216;20161031;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;22;20161107;20190312;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

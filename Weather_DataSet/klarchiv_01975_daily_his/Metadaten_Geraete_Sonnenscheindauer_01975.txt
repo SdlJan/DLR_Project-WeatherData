@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1975;Hamburg-Fuhlsbüttel;;;;;19380901;19461031;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+1975;Hamburg-Fuhlsbüttel;10;53.64;13;8.2;19461101;19680710;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1975;Hamburg-Fuhlsbüttel;10;53.64;13;3.4;19680711;19680711;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1975;Hamburg-Fuhlsbüttel;10;53.64;13;3.4;19680712;19950904;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1975;Hamburg-Fuhlsbüttel;9.99;53.63;11;2;19950905;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

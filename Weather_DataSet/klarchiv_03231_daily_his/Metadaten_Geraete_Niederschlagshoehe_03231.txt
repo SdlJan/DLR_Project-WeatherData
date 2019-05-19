@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3231;Meiningen;10.38;50.56;450;1;19790101;20100728;Hellmann;Niederschlagsmenge, konv.;eor;
+3231;Meiningen;10.38;50.56;450;1;19920101;20080626;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20080626;20100728;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20100729;20180425;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20100729;20100813;Hellmann;Niederschlagsmenge, konv.;eor;
+3231;Meiningen;10.38;50.56;450;1;20180425;20190312;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

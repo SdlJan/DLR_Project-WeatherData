@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4336;Saarbrücken-Ensheim;;;;;19510101;19550831;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+4336;Saarbrücken-Ensheim;7.11;49.22;323;.05;19550901;19890228;Minimumthermometer;Temperaturmessung, konv.;eor;
+4336;Saarbrücken-Ensheim;7.11;49.22;319;.05;19890301;19891011;Minimumthermometer;Temperaturmessung, konv.;eor;
+4336;Saarbrücken-Ensheim;7.11;49.21;320;.05;19891012;20080914;Minimumthermometer;Temperaturmessung, konv.;eor;
+4336;Saarbrücken-Ensheim;7.11;49.21;320;.05;19960801;20190312;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

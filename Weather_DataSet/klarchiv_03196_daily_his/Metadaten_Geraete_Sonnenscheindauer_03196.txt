@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;11.93;53.32;81;16;19961002;19961015;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;19961017;19970208;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;19970220;19980914;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;19980916;20000211;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20000214;20031023;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20031104;20041004;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20041006;20041010;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20041012;20050309;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20050503;20070123;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20070130;20071128;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20071128;20110421;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20110517;20170804;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;16;20170811;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --
