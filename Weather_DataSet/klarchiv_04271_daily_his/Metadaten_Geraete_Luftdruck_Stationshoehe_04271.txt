@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;;19470101;19490930;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;9.8;19491001;19501231;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;6.2;19510101;19510531;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;12.8;19510601;20080424;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;12.8;19920409;20150820;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;12.8;20150820;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

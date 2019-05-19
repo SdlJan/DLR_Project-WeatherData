@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2961;Leuchtturm Kiel;10.27;54.5;30.75;26;19980101;20120903;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+2961;Leuchtturm Kiel;10.27;54.5;30.75;26;20120904;20181009;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+2961;Leuchtturm Kiel;10.27;54.5;30.75;26;20181010;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2261;Hof;11.88;50.31;565.1;;19470101;20100811;Schneepegel;Schneehöhenmessung, manuell;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20080922;20090429;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;;20100812;20190312;Schneepegel;Schneehöhenmessung, manuell;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20110725;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;2.3;20131001;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

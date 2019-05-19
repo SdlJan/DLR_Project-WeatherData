@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20070426;20111113;Hänni Solar 111B;Strahlungsmessung, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20141002;20150324;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20150805;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

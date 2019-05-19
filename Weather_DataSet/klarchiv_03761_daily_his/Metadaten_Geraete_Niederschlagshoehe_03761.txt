@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3761;Öhringen;9.51;49.2;250;1;19470101;19540731;Hellmann;Niederschlagsmenge, konv.;eor;
+3761;Öhringen;9.51;49.2;248;1;19540801;19660223;Hellmann;Niederschlagsmenge, konv.;eor;
+3761;Öhringen;9.52;49.21;276;1;19660224;20060412;Hellmann;Niederschlagsmenge, konv.;eor;
+3761;Öhringen;9.52;49.21;276;1;19920701;20060516;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+3761;Öhringen;9.52;49.21;276;1;20060516;20060530;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3761;Öhringen;9.52;49.21;275.9;1;20060531;20180613;PLUVIO;Niederschlagsmenge, elektr.;eor;
+3761;Öhringen;9.52;49.21;275.9;1;20180614;20190312;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

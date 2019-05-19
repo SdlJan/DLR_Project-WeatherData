@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4104;Regensburg;12.05;49.02;337.5;1.4;19471201;19511130;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4104;Regensburg;12.05;49.02;337.5;1.5;19511201;19600405;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4104;Regensburg;12.06;49.02;340.4;1.5;19600406;19620625;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4104;Regensburg;12.07;49.01;376;5;19620627;19780917;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4104;Regensburg;12.1;49.04;366;1.7;19780918;20061112;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4104;Regensburg;12.1;49.04;366;6;19940315;20061219;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;6;20061220;20071204;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;9.34;20071004;20100308;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;9.34;20100309;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

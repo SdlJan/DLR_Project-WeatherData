@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1612;Gera-Leumnitz;12.08;50.88;200;2;19520101;19641231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;19650101;19720701;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;19720701;20060517;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;19920908;20040406;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;20040407;20060517;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;20060518;20141010;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;20060518;20060518;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;20141010;20190312;EE33;Feuchtemessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

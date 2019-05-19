@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;314;12;19730101;19910702;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;314;12;19910703;19950214;WMG 201;Windmessung, elektr.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;10;19950215;20110320;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1270;Erfurt-Weimar;10.96;50.98;316;10;20110321;20140325;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1270;Erfurt-Weimar;10.96;50.98;316;10;20140326;20160620;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+1270;Erfurt-Weimar;10.96;50.98;316;10;20160621;20190312;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

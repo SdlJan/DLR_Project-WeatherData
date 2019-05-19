@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5839;Emden;7.23;53.39;-.27;4.91;19970701;20060704;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+5839;Emden;7.23;53.39;-.27;-1.6;20060705;20160704;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+5839;Emden;7.23;53.39;-.27;-1.6;20160705;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

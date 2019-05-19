@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5397;Weiden;;;;;19470101;19600630;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+5397;Weiden;12.18;49.67;438;;19600701;20060628;Schneepegel;Schneehöhenmessung, manuell;eor;
+5397;Weiden;12.18;49.67;439.6;;20060629;20091101;Schneepegel;Schneehöhenmessung, manuell;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20071005;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20110805;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+5397;Weiden;12.18;49.67;439.6;2.3;20131001;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

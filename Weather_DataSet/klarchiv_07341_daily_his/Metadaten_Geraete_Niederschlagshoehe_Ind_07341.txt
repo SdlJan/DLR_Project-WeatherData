@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20050715;20060714;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20060715;20161107;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20161108;20190312;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

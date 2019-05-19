@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;30.5;19980101;20141001;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;30.5;20141002;20190312;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

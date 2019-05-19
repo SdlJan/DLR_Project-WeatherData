@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3552;Neuruppin;12.81;52.9;38;39.4;19610101;19990927;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;39.4;19760101;19901127;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;39.4;19920505;19990927;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;45;19990928;20160914;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;45;19990928;19990928;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;45;20160914;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

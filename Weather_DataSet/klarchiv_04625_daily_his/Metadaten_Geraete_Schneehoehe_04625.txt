@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;;;;;19000101;19451129;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+4625;Schwerin;11.39;53.64;59;;19451130;20130131;Schneepegel;Schneehöhenmessung, manuell;eor;
+4625;Schwerin;11.39;53.64;59;2;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20121001;20130212;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20130213;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20131001;20131126;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20131126;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

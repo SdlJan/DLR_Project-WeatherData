@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;;;;;19020101;19460228;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+3196;Marnitz;11.93;53.32;87.2;;19460301;19461031;Schneepegel;Schneehöhenmessung, manuell;eor;
+3196;Marnitz;11.93;53.32;83;;19461101;19480731;Schneepegel;Schneehöhenmessung, manuell;eor;
+3196;Marnitz;11.93;53.32;81;;19480801;19730430;Schneepegel;Schneehöhenmessung, manuell;eor;
+3196;Marnitz;11.93;53.32;81;;19730501;20120430;Schneepegel;Schneehöhenmessung, manuell;eor;
+3196;Marnitz;11.93;53.32;81;2;20071107;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;2;20091015;20100518;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;2;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;2;20111010;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;2;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;2;20131001;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

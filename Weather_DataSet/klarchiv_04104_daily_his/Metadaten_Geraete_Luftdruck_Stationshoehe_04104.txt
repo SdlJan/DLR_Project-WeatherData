@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4104;Regensburg;12.05;49.02;337.5;339.4;19470101;19600405;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4104;Regensburg;12.06;49.02;340.4;341.7;19600406;19620625;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4104;Regensburg;12.07;49.01;376;377.3;19620627;19780917;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4104;Regensburg;12.1;49.04;366;371;19780918;19970430;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4104;Regensburg;12.1;49.04;366;371;19940315;20061219;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;367.9;20061220;20070116;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;367.9;20070117;20100308;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;369.6;20100309;20121111;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;369.6;20121112;20140119;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;369.6;20140120;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

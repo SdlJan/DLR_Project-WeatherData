@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+402;Berlin-Dahlem (LFAG);;;;;18760101;19080331;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+402;Berlin-Dahlem (LFAG);13.3;52.46;55;55.3;19080401;19630331;Stationsbarometer;Luftdruckmessung, konv.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3032;List auf Sylt;;;;;19370101;19480107;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+3032;List auf Sylt;8.42;55.01;15.6;21.5;19480108;19641124;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3032;List auf Sylt;8.41;55.01;26.2;29.4;19641125;19860331;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3032;List auf Sylt;8.41;55.01;26.2;29.4;19951208;20091117;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3032;List auf Sylt;8.41;55.01;24.7;27.19;20091118;20140630;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3032;List auf Sylt;8.41;55.01;24.7;27.19;20140701;20170718;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+3032;List auf Sylt;8.41;55.01;24.7;27.19;20170719;20190129;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+3032;List auf Sylt;8.41;55.01;24.7;27.19;20190130;99990909;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

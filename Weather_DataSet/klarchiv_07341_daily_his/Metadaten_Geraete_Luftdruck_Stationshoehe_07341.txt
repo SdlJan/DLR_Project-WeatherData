@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;118.5;20050718;20060714;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;120.5;20060715;20131013;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;120.5;20131014;20180923;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;120.5;20180924;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

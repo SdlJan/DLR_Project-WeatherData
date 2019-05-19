@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20050715;20060714;PLUVIO;Niederschlagsmenge, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20060715;20100508;PLUVIO;Niederschlagsmenge, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20100513;20180802;PLUVIO;Niederschlagsmenge, elektr.;eor;
+7341;Offenbach-Wetterpark;8.79;50.09;118.5;1;20180803;20190312;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

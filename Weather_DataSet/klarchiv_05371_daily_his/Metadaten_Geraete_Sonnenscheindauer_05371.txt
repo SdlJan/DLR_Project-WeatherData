@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5371;Wasserkuppe;9.94;50.5;921;10;19360101;19920731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5371;Wasserkuppe;9.94;50.5;921;10;19920801;19961024;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5371;Wasserkuppe;9.94;50.5;921;10;19980701;20150823;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5371;Wasserkuppe;9.94;50.5;921;10.48;20150824;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

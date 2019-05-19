@@ -1,0 +1,25 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3015;Lindenberg;;;;;19060601;19451231;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;106;17;19460101;19491031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;106;16.3;19491031;19561022;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;16.3;19561023;19711017;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;16.3;19711018;19930331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;3;19920930;19930331;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;3;19930401;19950603;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;16.3;19930401;19930401;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;16.4;19930402;20031127;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;3;19950622;19960907;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;3;19960912;20010506;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;3;20010515;20031126;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.5;20031127;20040522;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;12.7;20031127;20040921;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3015;Lindenberg;14.12;52.21;98;13.5;20040524;20040703;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.5;20040706;20041113;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.5;20041115;20061228;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.5;20070109;20071025;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.7;20071025;20071113;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;13.7;20071116;20170906;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9.25;20170907;20180215;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;9.25;20180227;20180724;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3015;Lindenberg;14.12;52.21;98;12.8;20180725;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

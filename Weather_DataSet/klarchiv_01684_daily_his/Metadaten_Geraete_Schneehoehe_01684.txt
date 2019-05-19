@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1684;Görlitz;;;;;19350101;19460630;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.95;51.16;213.6;;19460701;19621231;Schneepegel;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.96;51.16;232.2;;19630101;19940525;Schneepegel;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.95;51.16;238;;19940526;20070327;Schneepegel;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.95;51.16;238;;20070328;20080731;Schneepegel;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.95;51.16;238;2.3;20070330;20080731;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2.3;20080801;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;;20080801;20181231;Schneepegel;Schneehöhenmessung, manuell;eor;
+1684;Görlitz;14.95;51.16;238;2.3;20091001;20100217;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2.3;20170808;20181016;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2.3;20181114;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

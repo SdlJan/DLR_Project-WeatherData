@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;1;19950215;20081009;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+1270;Erfurt-Bindersleben;10.96;50.98;316;1;19950215;20110320;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1270;Erfurt-Weimar;10.96;50.98;316;1;20110321;20180628;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

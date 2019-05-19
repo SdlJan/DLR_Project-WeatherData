@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;11.93;53.32;83;.05;19470101;19480731;Minimumthermometer;Temperaturmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19480801;19730430;Minimumthermometer;Temperaturmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19730501;19791227;Minimumthermometer;Temperaturmessung, konv.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19791228;19920616;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19920703;19930806;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19930926;19951225;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19951227;19951230;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19960104;19960120;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19960123;19980914;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;19980916;20041004;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;20041006;20041010;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;20041012;20060901;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;.05;20060914;20190312;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

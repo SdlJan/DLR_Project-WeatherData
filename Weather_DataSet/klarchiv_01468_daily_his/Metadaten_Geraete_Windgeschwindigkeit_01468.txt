@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1468;Freudenstadt;8.41;48.45;797;9.8;19701001;19860527;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1468;Freudenstadt;8.41;48.45;797;16;19860528;19900621;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1468;Freudenstadt;8.41;48.45;797;16;19900622;20040815;Windgeber SK-565;Windmessung, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;797;34.4;20040816;20060801;Windgeber SK-565;Windmessung, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;34.4;20060802;20100912;Windgeber SK-565;Windmessung, elektr.;eor;
+1468;Freudenstadt;8.41;48.45;796.5;34.4;20100913;20190312;Windgeber SK-565;Windmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

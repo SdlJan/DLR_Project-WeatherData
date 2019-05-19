@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3231;Meiningen;10.38;50.56;450;1;19920101;20080626;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;19960420;20080626;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20080626;20081104;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20081104;20100728;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20100729;20100930;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20100930;20120104;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20120104;20120123;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;1;20120123;20190312;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

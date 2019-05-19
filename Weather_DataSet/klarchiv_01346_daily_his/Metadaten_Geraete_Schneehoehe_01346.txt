@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1489.6;4;20141120;20150106;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1489.6;4;20150114;20151119;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+1346;Feldberg/Schwarzwald;8;47.87;1489.6;4;20161001;20190312;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

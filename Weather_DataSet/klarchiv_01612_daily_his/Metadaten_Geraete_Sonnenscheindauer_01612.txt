@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1612;Gera-Leumnitz;;;;;19520501;19520531;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+1612;Gera-Leumnitz;12.08;50.88;200;1.5;19520601;19641231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;1.6;19650101;20060517;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2.2;19920401;20060517;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2.2;20060518;20070115;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;1.6;20060518;20060518;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;6;20070115;20190312;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3196;Marnitz;11.93;53.32;81;1;19920703;19980914;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;19950620;19980914;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;19980916;20060405;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;19980916;20040928;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;20040930;20141207;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;20141211;20161004;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3196;Marnitz;11.93;53.32;81;1;20161004;20190312;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

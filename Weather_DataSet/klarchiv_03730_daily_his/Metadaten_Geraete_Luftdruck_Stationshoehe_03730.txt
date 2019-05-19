@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3730;Oberstdorf;;;;;19360101;19380228;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+3730;Oberstdorf;10.28;47.4;810;811.5;19380301;19940716;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3730;Oberstdorf;10.28;47.4;806;811.5;19940717;20070605;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;807.1;20070606;20121218;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;807.1;20121219;20140818;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;807.1;20140819;20150706;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;807.1;20150707;20181029;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+3730;Oberstdorf;10.28;47.4;806;807.1;20181030;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4911;Straubing;12.6;48.87;334;1;19510101;19630430;Hellmann;Niederschlagsmenge, konv.;eor;
+4911;Straubing;12.59;48.87;333;1.1;19630501;19750630;Hellmann;Niederschlagsmenge, konv.;eor;
+4911;Straubing;12.56;48.83;350;1;19940501;20021015;Hellmann;Niederschlagsmenge, konv.;eor;
+4911;Straubing;12.56;48.83;350;1;19961124;20060424;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4911;Straubing;12.56;48.83;350.9;1;20060425;20101116;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4911;Straubing;12.56;48.83;350;1;20101117;20180423;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4911;Straubing;12.56;48.83;350;1;20180424;20190312;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

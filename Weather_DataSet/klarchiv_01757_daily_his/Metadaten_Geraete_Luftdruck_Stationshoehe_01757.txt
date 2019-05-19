@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1757;Greifswald;;;;;18980301;19771231;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+1757;Greifswald;13.41;54.1;2;6;19780101;20060831;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1757;Greifswald;13.41;54.1;2;6;19920526;19930120;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6;19930126;19991207;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6;19991209;20021113;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6;20021119;20060831;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6.3;20060901;20110903;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6.3;20060901;20060901;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1757;Greifswald;13.41;54.1;2;6.5;20110904;20161220;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6.5;20161220;20170925;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;6.5;20170926;20190312;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --

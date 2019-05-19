@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3552;Neuruppin;12.81;52.9;38;1.5;19620101;19790522;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;1.5;19790524;19990927;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;1.5;19920519;19940406;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;3.1;19940406;19960820;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;12.7;19960820;19960903;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;19960903;19990927;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;19990928;20090717;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;1.5;19990928;19991231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20090722;20101018;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20101021;20120320;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20120329;20130807;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20130813;20140428;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20140508;20150604;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;16.7;20150610;20190312;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 14.03.2019 --  Deutscher Wetterdienst  --
